@@ -1,0 +1,6 @@
+*.vo
+*.vok
+*.vos
+.*.aux
+.devcontainer
+vscoqtop
