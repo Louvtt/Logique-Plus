@@ -220,6 +220,7 @@ Inductive bool : Type :=
   | true
   | false.
 
+
 (** Functions over booleans can be defined in the same way as
     above: *)
 
